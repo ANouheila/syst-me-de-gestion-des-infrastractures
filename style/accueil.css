@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+:root {
+  --modal-duration:1s;
+  --primary-color:rgb(250, 202, 113);
+  --secondary-color:rgb(23, 82, 149);
+}
+select {
+    border: 1px solid orange;
+    width: 230px;
+}
+body {
+ background-color: rgba(243, 243, 243, 0.164);
+}
+
+.nav {
+    margin-top:50px;
+}
+.cartee {
+    margin-top:50px;
+}
+.chnatier {
+    background-color: #ED820E ;
+
+}
+.const {
+    background-color:rgb(211, 145, 60);
+}
+.foncier {
+    background-color:  #80400B ;
+}
+.etude {
+    background-color: #f3a51f;
+}
+.sb-topnav h4 {
+color: #fff;
+margin-left:5px;
+}
+.sb-topnav {
+    margin-top:-10px;
+    padding: 0px;
+    height:150px;
+}
+
+#layoutSidenav_nav a{
+    color:#fff;
+    font-size: 16px;
+    border: 1px solid #884610;
+    border-radius:6px ;
+    background-color:rgb(75, 49, 18);
+    margin-bottom:5px;
+}
+#layoutSidenav_nav a:hover{
+  color: black;
+  transform: scale(1.1);
+}
+#layoutSidenav_nav .active{
+    color: black;
+    transform: scale(1.1);
+  }
+
+
+
+
+
+.ticket {
+    height: 175px;
+}
+.svg-inline--fa.carte {
+   font-size:40px;
+}
+.card-body{
+    display: flex;
+    align-items: center;
+}
+.title{
+    margin-left:15px;
+  font-size:16px;
+  text-align: center;
+}
+.title h3 {
+    text-align: center;
+}
+img {
+    margin-top: 5px;
+    width:225px;
+    height:50px;
+}
+#sidebarToggle{
+    margin-left:10px;
+    font-size: 25px;
+    color: #fff;
+}
+button:focus {
+    outline: none;
+}
+.profil img {
+    width:40px;
+    vertical-align: middle;
+    height:40px;
+}
+.util {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    color: black;
+    margin-left:100px;
+}
+.util a {
+    color: black;
+}
+.dec {
+    padding-top:7px;
+    padding-right:25px;
+    color: black;
+}
+.profil {
+    margin-left:13px;
+}
+
+
+.dec i {
+    font-size: 17px;
+}
+.util a {
+    color:black;
+    text-decoration: none;
+}
+.util a:hover {
+    text-decoration: underline;
+}
+.ajout-recherche {
+  margin-bottom:40px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+.ajout-recherche input {
+  padding:7px;
+  border: 1px solid orange;
+  border-radius:3px;
+  width:200px;
+  margin-left: 5px;
+}
+
+button {
+    margin-left:15px;
+}
+button:focus {
+    outline: none;
+}
+.ajouter {
+    margin-left:900px;
+    margin-bottom: 20px;
+}
+table {
+    margin-left:10px;
+}
+.ajout-formulaire {
+    margin-top:120px;
+    padding:20px;
+    border-radius:3px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0,.8);
+}
+.ajout-formulaire h3 {
+    text-align: center;
+    color: black;
+    margin-bottom:50px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.field {
+    height:30px;
+    margin:20px 0px;
+    background-color:rgb(239,178,97);
+    font-size: 18px;
+}
+.convention {
+    margin-top:20px;
+    padding:5px 20px;
+}
+
+
+abbr[title], abbr[data-original-title] {
+    text-decoration: none;
+}
+abbr[title] {
+    font-size: 16px;
+}
+select {
+    padding:8px 8px;
+    border-radius: 2px solid gray ;
+}
+.chantier {
+    margin-bottom: 15px;
+}
+.phase {
+    height:30px;
+    margin:20px 0px;
+    background-color:rgb(239,178,97);
+    font-size: 18px;
+}
+.item {
+    padding:2px;
+    margin:6px;
+}
+.rapport {
+    border: 1px solid black;
+    margin-top:35px;
+    padding: 10px;
+}
+.rapport h3 {
+    margin-top:20px;
+    margin-bottom:40px;
+    text-align: center;
+}
+.rapport a {
+ color: #fff;
+}
+.rapport .li {
+    color: black;
+}
+.act {
+    margin-left:600px;
+    margin-bottom:10px;
+}
+.obs {
+    margin-top:10px;
+}
+.act-etude {
+    margin-left:900px;
+}
+.archi {
+    width: 75%;
+}
+.item a {
+    color: blue;
+}
+.ministere{
+    width:50%;
+    height: 100%;
+    margin-top: 20px;
+    margin-left: 350px;
+    border-bottom: 1px solid rgba(82, 43, 12, 0.931);
+}
+#sidebarToggle{ 
+    color: black;
+}

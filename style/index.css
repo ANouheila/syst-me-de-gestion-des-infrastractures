@@ -1,0 +1,86 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("../images/back.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+}
+.card{
+  border-left:5px solid rgb(168, 137, 79);
+}
+label {
+    display:block;
+}
+.form-group i {
+    margin-right:5px;
+    font-size: 18px;
+}
+a {
+    color: rgb(148, 120, 69);
+}
+.form-control {
+    display:inline;
+    height: 50px;
+    margin-bottom:15px;
+    width:90%;
+}
+.btn {
+    background-color:rgb(168, 137, 79);
+    margin: 15px;
+    width: 100px;
+    float: right;
+    border-color: rgb(168, 137, 79);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    padding: 10px;
+}
+.card-header h3{
+    padding-bottom:10px;
+    border-bottom: 2px solid rgb(168, 137, 79) ;
+}
+/*.form {
+     border-left: 5px solid  rgb(168, 137, 79);
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0,.8);
+}
+.form h1 {
+    margin-bottom: 40px;
+    border-bottom:3px solid rgb(168, 137, 79) ;
+    width: max-content;
+
+}
+.form-floating>.form-control, .form-floating>.form-select {
+   height:50px;
+   padding:10px;
+}
+.form-control {
+  display: inline;
+  width:80%;
+}
+.form-floating i {
+    font-size:30px;
+}
+
+.form-floating>label {
+    left:25px;
+    padding: 5px;
+}
+.btn-warning {
+    background-color:rgb(168, 137, 79);
+    margin: 15px;
+    width: 100px;
+    float: right;
+    border-color: rgb(168, 137, 79);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    padding: 10px;
+}
+.btn-warning:hover{
+    background-color:rgb(168, 137, 79);
+    border:rgb(168, 137, 79) ;
+}*/
